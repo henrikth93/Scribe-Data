@@ -1,39 +1,44 @@
 {
 "French": {
-"nouns": 17072,
-"verbs": 6572,
+"nouns": 17438,
+"verbs": 6573,
 "emoji_keywords": 2488
 },
 "German": {
-"nouns": 102833,
-"verbs": 3593,
-"prepositions": 210,
+"nouns": 103777,
+"verbs": 3625,
+"prepositions": 215,
 "emoji_keywords": 2898
 },
 "Italian": {
-"nouns": 8671,
-"verbs": 73,
+"nouns": 58419,
+"verbs": 7649,
 "emoji_keywords": 2457
 },
 "Portuguese": {
-"nouns": 5437,
-"verbs": 536,
+"nouns": 5646,
+"verbs": 538,
 "emoji_keywords": 2327
 },
 "Russian": {
-"nouns": 194448,
-"verbs": 12,
+"nouns": 194557,
+"verbs": 14,
 "prepositions": 15,
 "emoji_keywords": 3827
 },
 "Spanish": {
-"nouns": 39105,
-"verbs": 4930,
+"nouns": 58557,
+"verbs": 7763,
 "emoji_keywords": 3134
 },
 "Swedish": {
-"nouns": 45259,
-"verbs": 4501,
+"nouns": 46974,
+"verbs": 4677,
 "emoji_keywords": 2913
+},
+"Japanese": {
+"nouns": 5487,
+"verbs": 1457,
+"emoji_keywords": 0
 }
 }
