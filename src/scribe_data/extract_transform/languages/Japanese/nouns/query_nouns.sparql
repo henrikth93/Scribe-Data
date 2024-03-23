@@ -20,5 +20,5 @@ SELECT (REPLACE(STR(?lexeme), "http://www.wikidata.org/entity/", "") as ?lexemeI
   FILTER(?nounType = ?nounTypes)
 
   BIND(lang(?noun) as ?language)
-  FILTER(?language = "ja-hira")
+  FILTER(CONTAINS(?language, "ja-hira") || CONTAINS(?language, "ja") || CONTAINS(?language, "ja-kana"))
 }
